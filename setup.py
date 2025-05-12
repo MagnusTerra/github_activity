@@ -9,6 +9,11 @@ setup(
     url="https://github.com/magnus_terra/github_activity",
     packages=find_packages(),
     install_requires=[],
+    entry_points={
+        "console_scripts": [
+            "github_activity=github_activity.main:main",
+        ],
+    },
 )
 
 
