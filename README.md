@@ -15,3 +15,5 @@ github_activity show <username>
 ```bash
 github_activity show MagnusTerra
 ```
+
+https://roadmap.sh/projects/github-user-activity
